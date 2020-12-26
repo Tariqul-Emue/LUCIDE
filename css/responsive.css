@@ -1,0 +1,172 @@
+@media (max-width: 1199px){
+	.banner_content h1 {
+	    font-size: 39px;
+	}
+	.banner_content p {
+		margin-bottom: 30px;
+	}
+	.service p {
+	    font-size: 17px;
+	}
+
+
+}
+
+
+
+
+@media (max-width: 991px){
+	.banner_content {
+		text-align: center;
+		padding-bottom:  70px
+	}
+	.banner_content h1 {
+		font-size: 52px;
+	}
+	.banner_content p {
+		margin:auto;
+
+		margin-bottom: 30px;
+	}
+	.service {
+	    margin-bottom: 45px;
+	}
+
+	.about p {
+		padding: 13px 0 2px;
+		font-size: 16px;
+	}
+	.about11 h1 {
+		font-size: 28px;
+	}
+	.about11 h3 {
+		font-size: 14px;
+	}
+	.about11 {
+		padding: 50px 0;
+	}
+	.about_seaction {
+		padding: 20px 0;
+	}
+	.carousel-item h5 {
+		font-size: 16px;
+	}
+	.download_section {
+		padding: 40px 0;
+		text-align: center;
+	}
+	.list-unstyled.pricing_area {
+		margin-bottom: 29px;
+	}
+}
+
+
+
+@media (max-width: 767px){
+	
+			p {
+			font-size: 16px;
+		}
+		.banner_content h1 {
+			font-size: 45px;
+		}
+		.btn-custom-outline,.btn-custom {
+			font-size: 12px;
+		}
+		.service_area h1 {
+			font-size: 38px;
+		}
+		.service span {
+			font-size: 28px;
+			width: 70px;
+			height: 70px;
+			line-height: 70px;
+		}
+		.about11 ul{
+			display: none
+		}
+		.about11 h3 {
+			font-size: 13px;
+		}
+		h1 {
+			padding-top: 7px;
+			font-size: 31px;
+
+		}
+		.carousel-item .nav {
+			justify-content: center;
+		}
+		.carousel-item{
+			text-align: center
+		}
+		.carousel-item h5 {
+			font-size: 17px;
+			margin-bottom: 20px
+		}
+		.info i {
+		    font-size: 30px;
+		    margin-bottom: 14px;
+		}
+		footer p {
+		    font-size: 18px;
+		}
+		footer ul li a {
+		    font-size: 20px;
+		}
+
+
+}
+
+
+@media (max-width: 575px){
+	
+		.service_area h1 {
+			font-size: 35px;
+		}
+
+		.service span {
+			font-size: 24px;
+			width: 65px;
+			height: 65px;
+			line-height: 65px;
+		}
+		h2 {
+			font-size: 22px;
+		}
+		p {
+			font-size: 14.9px;
+		}
+
+		.about11 ul {
+			display: block ruby;
+		}
+		.info p {
+		    font-size: 15px;
+		    margin-bottom: 20px;
+		}
+		.about11 {
+			padding: 30px 0;
+		}
+}
+
+
+
+
+
+
+
+@media (max-width: 767px){
+			.banner_content p {
+			margin: auto;
+			margin-bottom: 17px;
+		}
+		.banner_content h1 {
+			font-size: 37px;
+		}
+		p {
+			font-size: 15px;
+		}
+		.btn-custom-outline, .btn-custom {
+			font-size: 10px;
+		}
+}
